@@ -55,16 +55,14 @@ select {
   padding: 0.375rem 0.75rem;
 }
 
-input[type="radio"]
- {
+input[type="radio"] {
   width: auto;
   min-height: 20px;
   box-sizing: content-box;
   padding: 0.375rem 0.75rem;
 }
 
-input[type="checkbox"]
- {
+input[type="checkbox"] {
   width: auto;
   min-height: 20px;
   box-sizing: content-box;
