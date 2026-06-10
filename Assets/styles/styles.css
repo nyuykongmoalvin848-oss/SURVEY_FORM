@@ -99,4 +99,10 @@ button {
   select {
     padding: 0.5rem;
   }
+  
+  body {
+  background-repeat:repeat;
+  background-position: center;
+  background-size: cover;
+  }
 }
