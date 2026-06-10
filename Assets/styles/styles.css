@@ -6,7 +6,7 @@ body {
   background-size: cover;
   color: white;
   margin: 0 auto;
-  background-image: linear-gradient(rgba(61, 67, 102, 0.7), #3d4366c5), url("../Images/img1(1).jpeg");
+  background-image: linear-gradient(rgba(61 67 102 70%), #3d4366c5), url("../Images/img1(1).jpeg");
 }
 
 form {
