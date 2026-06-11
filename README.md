@@ -16,7 +16,7 @@ A code editor like Visual Studio Code
 
  **Navigate into the project directory**:
 
-   cd SURVEY FORM
+   cd SURVEY_FORM
 
  **Launch the application**:
 
