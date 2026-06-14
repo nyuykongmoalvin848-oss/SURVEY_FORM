@@ -2,30 +2,25 @@
 
 ## Description
 
- while trackiThis is a simple HTML survey form that asks users informationng their data
+A responsive survey form built to satisfy the freeCodeCamp Responsive Web Design
 
 ### Prerequisites
 
  A modern web browser (e.g., Chrome, Firefox, Safari)
-*A code editor like Visual Studio Code
+A code editor like Visual Studio Code
 
 ### Installation Setup Steps
 
-nyuykongmoalvin848-oss/SURVEY_FORM
-
  **Clone the repository** using the main repository URL:
-
-   git clone  
+ nyuykongmoalvin848-oss/SURVEY_FORM
 
  **Navigate into the project directory**:
 
-   cd SURVEY FORM
+   cd SURVEY_FORM
 
  **Launch the application**:
 
-**Method A (Recommended)**:
-
-    Right-click `index.html` inside VS Code and select **Go live**.
+    Right-click index.html inside VS Code and select Go live
 
 ## Example
 
